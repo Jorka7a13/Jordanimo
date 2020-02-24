@@ -58,3 +58,12 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Custom ignores
+
+# 3rd-party assets
+/Assets/Gizmos/3rd-Party
+/Assets/Gizmos/3rd-Party.meta
+/Assets/Plugins/3rd-Party
+/Assets/Plugins/3rd-Party.meta
+/Assets/Resources/3rd-Party
+/Assets/Resources/3rd-Party.meta
